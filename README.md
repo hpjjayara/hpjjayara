@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm undergraduate student of IIT
+I'm undergraduate student of Informatics Institute of Technology (Affiliated with
+University of Westminster, UK)
 
 <!--
 **hpjjayara/hpjjayara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
