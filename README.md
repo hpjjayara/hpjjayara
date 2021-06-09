@@ -3,7 +3,7 @@
 I'm undergraduate student of Informatics Institute of Technology (Affiliated with
 University of Westminster, UK)
 
-#Degree
+# Degree
 BEng (Hons) Software Engineering | Sep 2019 - present
 
 <!--
