@@ -2,6 +2,7 @@
 
 I'm undergraduate student of Informatics Institute of Technology (Affiliated with
 University of Westminster, UK)
+BEng (Hons) Software Engineering | Sep 2019 - present
 
 <!--
 **hpjjayara/hpjjayara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
