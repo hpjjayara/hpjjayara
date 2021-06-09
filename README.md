@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+### University
 
 I'm undergraduate student of Informatics Institute of Technology (Affiliated with
 University of Westminster, UK)
